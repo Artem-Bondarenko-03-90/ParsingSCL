@@ -1,0 +1,7 @@
+{
+  "db_host": "192.168.10.84",
+  "db_user": "postgres",
+  "db_password": "postgres",
+  "db_name": "asmdb",
+  "db_port": 5432
+}
